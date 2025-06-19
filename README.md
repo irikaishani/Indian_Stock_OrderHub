@@ -6,6 +6,7 @@
 
 ## 📸 Visuals of the Indian Stock OrderHub
 
+![Indian Stock Option Analyzer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVqNXE5YXczNzB5NGM3M2ppbnYwcnZwZ3VjdTBoMm8weXJyNTJ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hI3JvRneWIgzQ7ibaB/giphy.gif)
 
 ---
 
@@ -33,4 +34,19 @@
 ---
 
 ## 📂 Folder Structure
+
+```plaintext
+upstox_stock_order/
+│
+├── .env                           # Stores access token securely
+├── app.py                         # Entry point (Home page or navigation)
+├── requirements.txt               # Python dependencies
+│
+├── pages/                         # Streamlit multipage app structure
+│   ├── 2_Buy_Stock.py             # Page for stock selection and order setup
+│   └── Confirm.py                 # Final page to preview and place the order
+│
+├── upstox-python/                 # (Optional) Clone from official Upstox GitHub
+
+
 
