@@ -6,7 +6,6 @@
 
 ## 📸 Visuals of the Indian Stock OrderHub
 
-![Indian Stock OrderHub](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJoYTNqZnhsYWluODFxZ3Y2ZjR3bDcwdW41ZzYyb2hnd3J6dnZkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSe15uoNuxa9MwtPNR/giphy.gif)
 
 ---
 
