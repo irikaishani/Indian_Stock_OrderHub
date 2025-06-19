@@ -49,4 +49,54 @@ upstox_stock_order/
 ├── upstox-python/                 # (Optional) Clone from official Upstox GitHub
 
 
+```
+## ⚙️ Installation & Setup
+
+Follow these steps to set up and run the Upstox Stock Order App on your local machine:
+
+---
+
+### 🔁 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/upstox_stock_order.git
+cd upstox_stock_order
+
+```
+
+### Create a Virtual Environment
+```sh
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+### Install Dependencies
+```sh
+pip install -r requirements.txt
+```
+
+### Setup API Access Token
+ACCESS_TOKEN=your_upstox_access_token
+
+
+* Create a .env file in the project root:
+
+```sh
+UPSTOX_API_KEY=your_upstox_api_key
+UPSTOX_API_SECRET=your_upstox_api_secret
+UPSTOX_ACCESS_TOKEN=your_upstock_api_accesstoken
+
+
+```
+
+### Start the Application
+```sh
+streamlit run app.py
+```
+
+
+
+
+
+
 
